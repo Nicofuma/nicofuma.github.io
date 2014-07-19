@@ -1,0 +1,10 @@
+{
+	"unstable": {
+		"1.0": {
+			"current": "1.0.0-b1",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2249656",
+			"eol": null,
+			"security": false
+		}
+	}
+}
