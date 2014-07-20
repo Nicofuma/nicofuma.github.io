@@ -1,8 +1,8 @@
 {
 	"unstable": {
 		"1.0": {
-			"current": "1.0.0-dev",
-			"announcement": "none",
+			"current": "1.0.0-a1",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2253386",
 			"eol": null,
 			"security": false
 		}
