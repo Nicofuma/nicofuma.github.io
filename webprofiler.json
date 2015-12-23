@@ -5,12 +5,10 @@
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2249656",
 			"eol": null,
 			"security": false
-		}
-	},
-	"unstable": {
-		"1.2": {
-			"current": "1.2.0-dev",
-			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2249656",
+		},
+		"2.0": {
+			"current": "2.0.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2249656&p=14295186#p14295186",
 			"eol": null,
 			"security": false
 		}
